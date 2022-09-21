@@ -4,13 +4,13 @@ This is a java project for Clinic Management System
 In this program patient can register for an appointment with the doctor. They can fill the patient form which stores the patient information. After the form is filled the reseptionist can give appointment to the patients. A patient Report is formed when an appointment is made. The doctor can diagnose the issue, can also prescribe medicine for the patient and edit the patient report. The reseptionist can later print the bill for the patient.
 
 # Language Used
-● Java
+-  Java
 
 # Group Members
-● @Arjun U
-● @Sidharth S Kumar
-● @Avadhuta Sai Varun
-● @Karan Rajesh Nair
+-  @Arjun U
+-  @Sidharth S Kumar
+-  @Avadhuta Sai Varun
+-  @Karan Rajesh Nair
 
 # Run the code
 Load the files in a code editor(VS code) and run clinicManagement.java
@@ -18,12 +18,12 @@ Load the files in a code editor(VS code) and run clinicManagement.java
 # ScreenShot
 The ScreenShots of the program
 
-● Main page
+-  Main page
 
 
 <img width="796" alt="Screenshot 2022-09-21 at 9 33 37 PM" src="https://user-images.githubusercontent.com/91950083/191554491-92efffe6-2790-446e-983b-c8e4c75a523e.png">
 
-● Patient Page
+-  Patient Page
 
 <img width="797" alt="Screenshot 2022-09-21 at 9 34 18 PM" src="https://user-images.githubusercontent.com/91950083/191554634-658b73e8-0959-41b9-b060-71fc963cc64f.png">
 
