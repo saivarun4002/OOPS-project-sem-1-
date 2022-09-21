@@ -7,10 +7,10 @@ In this program patient can register for an appointment with the doctor. They ca
 -  Java
 
 # Group Members
--  @Arjun U
--  @Sidharth S Kumar
--  @Avadhuta Sai Varun
--  @Karan Rajesh Nair
+- [@Arjun U](https://github.com/Arjun2099) 
+- [@Sidharth S Kumar](https://github.com/Sidharthssk)
+- [@Avadhuta Sai Varun](https://github.com/saivarun4002)
+- [@Karan Rajesh Nair](https://github.com/Karan-Rajesh-Nair)
 
 # Run the code
 Load the files in a code editor(VS code) and run clinicManagement.java
