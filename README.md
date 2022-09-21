@@ -27,11 +27,11 @@ The ScreenShots of the program
 
 <img width="797" alt="Screenshot 2022-09-21 at 9 34 18 PM" src="https://user-images.githubusercontent.com/91950083/191554634-658b73e8-0959-41b9-b060-71fc963cc64f.png">
 
-● Reseptionist Page
+-  Reseptionist Page
 
 <img width="796" alt="Screenshot 2022-09-21 at 9 34 47 PM" src="https://user-images.githubusercontent.com/91950083/191554747-fceb48f8-b9f2-4553-ad22-c28d8f948a77.png">
 
-● Doctor Page
+-  Doctor Page
 
 <img width="799" alt="Screenshot 2022-09-21 at 9 35 31 PM" src="https://user-images.githubusercontent.com/91950083/191554920-e1ae6bcd-d3fa-470c-b5d1-82312e73fc4c.png">
 
